@@ -1,0 +1,53 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#textoResultado {
+    margin: 30px;
+    border-radius: 14px;
+    font-size: 30px;
+    color: brown;
+    block-size: 25px;
+}
+.botonesoperaciones button{
+    font-size: 18px;
+    background-color: burlywood;
+    border-radius: 50px;
+    margin: 10px;
+
+}
+
+.botonesresultado button{
+    font-size: 18px;
+    background-color: burlywood;
+    border-radius: 50px;
+    
+}
+.all{
+    width: 300px; 
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    border: 5px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    background-color: bisque;
+    border-color: brown;
+    border-style: groove;
+    border-radius: 25px;
+}
+.datos input{
+    background-color: tan;
+    border-color: transparent;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.datos{
+    font-size: 25px;
+}
+.all h1,h2{
+    color: rgb(91, 24, 24);
+    font-size: 35px;
+}
